@@ -1,5 +1,5 @@
 # Forecasting-Price-Movements-of-IT-ETFs-using-CNNs
-This project proposes a model to forecast next-day price movement of Information Technology ETFs (VGT & XSD). The methodology comprises among others 
+This project proposes a model to forecast next-day price movement of Information Technology ETFs (VGT & XSD) to evaluate the performance of different image encoding techniques. The methodology comprises among others 
 1. Technical analysis tools for feature creation
 2. A simplified triple-barrier method to lable the data (Buy, Hold, Sell)
 3. Gramian Angular Difference Fields, Gramian Angular Summation Fields and Markov Transition Fields for image encoding
